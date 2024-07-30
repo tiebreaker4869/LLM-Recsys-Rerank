@@ -1,1 +1,1 @@
-# LLM-Recsys-Rerank
+# LLMRec-BeyondAcc
